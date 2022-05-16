@@ -1,0 +1,4 @@
+rencana project
+- aplikasi kasir
+- aplikasi peminjaman uang 
+- aplikasi kelola gudang
