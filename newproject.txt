@@ -1,0 +1,5 @@
+Project awal yang akan dibuat :
+1. Membuat HTML 
+2. Membuat CSS 
+3. Membuat Program PHP
+4. Merancang Database
