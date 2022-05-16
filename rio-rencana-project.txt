@@ -1,4 +1,6 @@
 rencana project
 - aplikasi kasir
 - aplikasi peminjaman uang 
+ * menambahkan fitur scan KTP
+ * menambahkan fitur scan KK
 - aplikasi kelola gudang
